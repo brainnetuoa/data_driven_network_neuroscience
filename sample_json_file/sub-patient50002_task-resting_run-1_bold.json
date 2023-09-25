@@ -1,0 +1,11 @@
+{
+	"Field Strength": 3.0,
+	"Flip Angle": 70.0,
+	"Mfg Model": "Siemens",
+	"Slice Thickness": 0.0,
+	"TE": 25, 
+	"RepetitionTime": 1500.0,
+	"Slices": 29.0,
+	"Pixel Spacing X": 64.0,
+	"Pixel Spacing Y": 64.0
+}

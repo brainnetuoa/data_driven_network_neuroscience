@@ -1,0 +1,16 @@
+{
+	"Acquisition Plane": "Sagittal", 
+	"Acquisition Type": "3D",
+	"Coil": "HE",
+	"Field Strength": 3.0,
+	"Flip Angle": 7.0,
+	"Pixel Spacing X": 1,
+	"Pixel Spacing Y": 1.1,
+	"Manufacturer": "Siemens", 
+	"Mfg Model": "MAGNETOM Allegra syngo MR A30",
+	"Slice Thickness": 1.0,
+	"TE": 3.9, 
+	"TI": 0.0, 
+	"RepetitionTime": 2100,
+	"Weighting": "T1"
+}
