@@ -2,7 +2,7 @@
 
 # Data-Driven Network Neuroscience: On Data Collection and Benchmark
 
-This repository contains a package of scripts and codes used in the paper to convert raw functional images to connectivity matrices using [fMRIPrep] (https://fmriprep.org/en/stable/). The detailed description can be found in [our paper](https://arxiv.org/abs/2211.12421) on NeurIPS, Datasets and Benchmarks Track, 2023. The dataset we used and the preprocessed data is collected at [https://doi.org/10.17608/k6.auckland.21397377](https://doi.org/10.17608/k6.auckland.21397377).
+This repository contains a package of scripts and codes used in the paper to convert raw functional images to connectivity matrices using [fMRIPrep](https://fmriprep.org/en/stable/). The detailed description can be found in [our paper](https://arxiv.org/abs/2211.12421) on NeurIPS, Datasets and Benchmarks Track, 2023. The dataset we used and the preprocessed data is collected at [https://doi.org/10.17608/k6.auckland.21397377](https://doi.org/10.17608/k6.auckland.21397377).
 
 ## Samples of the raw MRI / preprocessed outputs / matrices  
 
