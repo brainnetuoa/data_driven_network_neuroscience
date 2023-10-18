@@ -24,7 +24,7 @@ This repository contains a package of scripts and codes used in the paper to con
 
 1. Install numpy, os, shutil, glob, dcm2niix, nilearn, scipy modules for python programming
 2. Install Docker/Singularity and fMRIPrep 
-	* Installing fMRIPrep requires several steps and sorting out dependencies and a freesurfer license (free to acquire). We recommend following [this guide] (https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep.html)
+	* Installing fMRIPrep requires several steps and sorting out dependencies and a freesurfer license (free to acquire). We recommend following [this guide](https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep.html)
 
 ## Steps to preprocess neuroimages:
 
