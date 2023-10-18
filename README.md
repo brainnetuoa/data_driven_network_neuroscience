@@ -6,9 +6,9 @@ This repository contains a package of scripts and codes used in the paper to con
 
 ## Samples of the raw MRI / preprocessed outputs / matrices  
 
-* A sample TaoWu subject can be accessed here: `to be updated`
-* The fMRIPrep outputs of the same subject fully preprocessed can be accessed here: `to be updated`
-* The set of connectivity matrices (using correlation) generated for the same subject can be accessed here: `to be updated`
+* A sample TaoWu subject can be accessed here: [sub-control032057-raw-image](https://auckland.figshare.com/articles/dataset/NeurIPS_2022_Datasets/21397377?file=42753967)
+* The fMRIPrep outputs of the same subject fully preprocessed can be accessed here: [sub-control032057-preprocessed](https://auckland.figshare.com/articles/dataset/NeurIPS_2022_Datasets/21397377?file=42753970)
+* The set of connectivity (using correlation) and time-series matrices generated for the same subject can be accessed here: [sub-control032057-matrices](https://auckland.figshare.com/articles/dataset/NeurIPS_2022_Datasets/21397377?file=42753964)
 
 ## Requirements
 * Containerized execution environment: 
@@ -28,14 +28,15 @@ This repository contains a package of scripts and codes used in the paper to con
 
 ## Steps to preprocess neuroimages:
 
-![alt text](https://raw.githubusercontent.com/bna-data-analysis/extract-brain-network/main/asset/nips_flowchart.png)
+![flow chart](https://raw.githubusercontent.com/bna-data-analysis/extract-brain-network/main/asset/nips_flowchart.png)
 
 ## Step A: Data Collection and Selection
+
 Access Link for [Neurocon and TaoWu Dataset](http://fcon_1000.projects.nitrc.org/indi/retro/parkinsons.html).
 
 Access Link for [ABIDE/ADNI/PPMI](https://ida.loni.usc.edu/login.jsp). 
 
-* A sample TaoWu subject can be accessed here: `to be updated`
+* A sample TaoWu subject can be accessed here: [sub-control032057-raw-image](https://auckland.figshare.com/articles/dataset/NeurIPS_2022_Datasets/21397377?file=42753967)
 * Each fMRI image needs to be accompanied with a structural T1-weighted (T1w) image acquired from the same subject (ideally) in the same scan session
 
 ## Step B: BIDS Format Conversion
@@ -56,7 +57,7 @@ Make sure you have installed fMRIPrep correctly using the information and guides
 * fMRIPrep outputs a number of BIDS Derivative compliant files
 	* For details on each file: https://fmriprep.org/en/stable/outputs.html
 
-A sample of a fully preprocessed TaoWu subject (and its outputs) can be accessed here: `to be updated`
+A sample of a fully preprocessed TaoWu subject (and its outputs) can be accessed here: [sub-control032057-preprocessed](https://auckland.figshare.com/articles/dataset/NeurIPS_2022_Datasets/21397377?file=42753970)
 
 ## Steps D, E, and F: Parcellation and ROI Definition, Connectivity Matrix Extraction, and Graphical Brain Network
 
